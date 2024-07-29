@@ -33,6 +33,6 @@ public class AllDivisors {
     }
 
     public static void main(String[] args){
-        printAllDivisors(38);
+        printAllDivisors(4);
     }
 }
